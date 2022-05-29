@@ -10,5 +10,8 @@ int main()
     puts ("PROBANDO GIT");
     puts ("PROBANDO GIT");
 
+    int flag=0;
+    char palabra;
+
     return 0;
 }
