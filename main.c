@@ -12,6 +12,8 @@ int main()
 
     int flag=0;
     char palabra;
+    
+    char arregloPalabras [20] [30];
 
     return 0;
 }
